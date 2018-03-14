@@ -1,15 +1,5 @@
-djsjkdflj asd sad
-f
-as
-df
-sa
-df
- as
- df   dmmmmmmmmdddddddddddddddddddddddddddddd
- dddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
- a
-
-
-
-
+#!bin/bash
+echo "read the news"
+read "news"
+cho "one thing is good"
 
