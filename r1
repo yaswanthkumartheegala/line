@@ -1,0 +1,5 @@
+#!bin/bash
+echo "read the news"
+read "news"
+cho "one thing is good"
+
